@@ -1051,7 +1051,7 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url("../img/event-birthday.jpg") center center no-repeat;
+  background: url("Restaurantly/img/event-birthday.jpg") center center no-repeat;
   background-size: cover;
   position: relative;
 }
